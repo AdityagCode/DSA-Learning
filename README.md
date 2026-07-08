@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/AdityagCode/DSA-Learning/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
