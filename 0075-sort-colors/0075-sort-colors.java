@@ -6,14 +6,16 @@ class Solution {
         while(mid<=high){
             int temp = 0;
             if(nums[mid] == 0 ){
+                temp = nums[mid];
                 nums[mid] = nums[low];
-                nums[low]=0;
+                nums[low] = temp;
                 mid++;
                 low++;
             }
             else if(nums[mid]==2){
+                temp = nums[mid];
                 nums[mid] = nums[high];
-                nums[high]=2;
+                nums[high]=temp;
                 high--;
             }
             else if(nums[mid]==1){
