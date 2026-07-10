@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/AdityagCode/DSA-Learning/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityagCode/DSA-Learning/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AdityagCode/DSA-Learning/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -42,9 +44,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityagCode/DSA-Learning/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdityagCode/DSA-Learning/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
