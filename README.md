@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/AdityagCode/DSA-Learning/tree/master/0203-remove-linked-list-elements) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AdityagCode/DSA-Learning/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AdityagCode/DSA-Learning/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
