@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/AdityagCode/DSA-Learning/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/AdityagCode/DSA-Learning/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdityagCode/DSA-Learning/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityagCode/DSA-Learning/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/AdityagCode/DSA-Learning/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/AdityagCode/DSA-Learning/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AdityagCode/DSA-Learning/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0912-sort-an-array) |
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/AdityagCode/DSA-Learning/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/AdityagCode/DSA-Learning/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/AdityagCode/DSA-Learning/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
