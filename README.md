@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityagCode/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AdityagCode/DSA-Learning/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityagCode/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdityagCode/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -118,5 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityagCode/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AdityagCode/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityagCode/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
